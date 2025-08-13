@@ -1,1 +1,49 @@
+## Day 3: TL-Verilog & Pipelining Concepts
+
+On Day 3 of the **RISC-V MYTH** workshop, I moved from learning the basics of TL-Verilog to implementing a fully functional pipelined calculator with memory recall.
+
+### Key Learnings
+
+- **TL-Verilog Syntax & Makerchip Environment**  
+  Explored the timing-abstract syntax of TL-Verilog and worked hands-on in the Makerchip browser-based IDE.
+
+- **Constraints & Timing-Abstract Modeling**  
+  Understood how TL-Verilog handles constraints and how timing-abstract modeling simplifies retiming and stage balancing.
+
+- **Pipelining Principles**  
+  Broke logic into multiple stages to improve performance, while learning about stage isolation and high-frequency operation.
+
+- **Retiming for Performance**  
+  Practiced redistributing registers across pipeline stages to optimize critical paths.
+
+- **Validity Signaling & Flow Control**  
+  Implemented `valid` signals to ensure only meaningful data propagates through the pipeline.
+
+- **Clock Gating for Power Efficiency**  
+  Learned how to save power by enabling/disabling clock regions dynamically.
+
+- **Hierarchical Design & Modularity**  
+  Structured the design into reusable modules, improving clarity and maintainability.
+
+- **Calculator with Memory Recall**  
+  Applied all learned concepts to create a calculator circuit capable of arithmetic operations and memory recall.
+
+---
+
+### Makerchip Examples
+
+| Description                              | Link |
+|------------------------------------------|------|
+| Calculator with Delay Logic              | [calculator_delay](https://makerchip.com/sandbox/01wfphQm/0lOhow8) |
+| Reset Demonstration                      | [reset](https://makerchip.com/sandbox/01wfphQm/0mwh5ox) |
+| Pipeline Example                         | [pipeline example](https://makerchip.com/sandbox/01wfphQm/0oYhXV0) |
+| Single-Stage Pipeline                    | [single stage pipeline](https://makerchip.com/sandbox/01wfphQm/0wjhLEw) |
+| Adding Valid Signal                      | [pipeline with valid](https://makerchip.com/sandbox/068fohVV/0DRhB7O) |
+| Memory + Recall Logic (Final Calculator) | [memory + recall](https://makerchip.com/sandbox/068fohVV/0KOhqQ9) |
+
+---
+
+### Reflection
+
+Day 3 was a deep dive into **practical RTL design**—from basic syntax and environment setup to advanced pipelining, retiming, and low-power techniques. By the end of the day, I had a working calculator that showcased all these principles in action.
 
