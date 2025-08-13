@@ -29,6 +29,8 @@ On Day 3 of the **RISC-V MYTH** workshop, I moved from learning the basics of TL
   Applied all learned concepts to create a calculator circuit capable of arithmetic operations and memory recall.
 
 ---
+**Final Calculator architecture
+<img width="629" height="672" alt="image" src="https://github.com/user-attachments/assets/064c89f7-effd-4f4b-abc3-d293a4222e0a" />
 
 ### Makerchip Examples
 
