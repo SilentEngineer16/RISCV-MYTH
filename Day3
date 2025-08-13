@@ -32,14 +32,14 @@ On Day 3 of the **RISC-V MYTH** workshop, I moved from learning the basics of TL
 
 ### Makerchip Examples
 
-| Description                              | Link |
-|------------------------------------------|------|
-| Calculator with Delay Logic              | [calculator_delay](https://makerchip.com/sandbox/01wfphQm/0lOhow8) |
-| Reset Demonstration                      | [reset](https://makerchip.com/sandbox/01wfphQm/0mwh5ox) |
-| Pipeline Example                         | [pipeline example](https://makerchip.com/sandbox/01wfphQm/0oYhXV0) |
-| Single-Stage Pipeline                    | [single stage pipeline](https://makerchip.com/sandbox/01wfphQm/0wjhLEw) |
-| Adding Valid Signal                      | [pipeline with valid](https://makerchip.com/sandbox/068fohVV/0DRhB7O) |
-| Memory + Recall Logic (Final Calculator) | [memory + recall](https://makerchip.com/sandbox/068fohVV/0KOhqQ9) |
+| Description                              | Link 
+|------------------------------------------|------------------------------------------------------------------------------
+| Calculator with Delay Logic              | https://makerchip.com/sandbox/01wfphQm/0lOhow8
+| Reset Demonstration                      | https://makerchip.com/sandbox/01wfphQm/0mwh5ox
+| Pipeline Example                         | https://makerchip.com/sandbox/01wfphQm/0oYhXV0
+| Single-Stage Pipeline                    | https://makerchip.com/sandbox/01wfphQm/0wjhLEw
+| Adding Valid Signal                      | https://makerchip.com/sandbox/068fohVV/0DRhB7O
+| Memory + Recall Logic (Final Calculator) | https://makerchip.com/sandbox/068fohVV/0KOhqQ9 
 
 ---
 
