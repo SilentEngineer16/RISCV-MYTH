@@ -50,5 +50,5 @@ On Day 3 of the **RISC-V MYTH** workshop, I moved from learning the basics of TL
 
 ### Reflection
 
-Day 3 was a deep dive into **practical RTL design**—from basic syntax and environment setup to advanced pipelining, retiming, and low-power techniques. By the end of the day, I had a working calculator that showcased all these principles in action.
+Day 3 was a deep dive into **practical TV-Verilog design**—from basic syntax and environment setup to advanced pipelining, retiming, and low-power techniques. By the end of the day, I had a working calculator that showcased all these principles in action.
 
