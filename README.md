@@ -21,5 +21,5 @@ This workshop deepened my understanding of processor architecture, hardware desc
 
 ## Acknowledgement
 
-I would like to express my heartfelt thanks to **Kunal Ghosh** (VLSI System Design) and **Steve Hoover** (Redwood EDA) for designing and delivering this wonderful course.  
+I would like to express my heartfelt thanks to [**Kunal Ghosh**](https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836/) (VLSI System Design) and [**Steve Hoover**](https://www.linkedin.com/in/steve-hoover-a44b607/) (Redwood EDA) for designing and delivering this wonderful course.  
 Their guidance, enthusiasm, and structured teaching approach made this complex journey into CPU design not just understandable, but truly enjoyable.
