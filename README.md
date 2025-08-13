@@ -4,7 +4,7 @@ This repository documents my work from the RISC-V MYTH (Microprocessor for You i
 
 Through this program, I gained hands-on experience in:
 
-- **RISC-V ISA Fundamentals** – Understanding the RV32I instruction set, software-to-hardware execution stack (Application → API → ABI → RTL → Hardware), and how C programs map to RISC-V instructions.  
+- **RISC-V ISA Fundamentals** – Understanding the RV32I instruction set, software-to-hardware execution stack (Application → API → ABI → ISA → RTL → Hardware), and how C programs map to RISC-V instructions.  
 - **Application Binary Interface (ABI)** – Learning calling conventions, system calls, and their role in OS–hardware interaction, along with writing C-with-assembly programs using ABI calls.  
 - **Instruction Set Architecture (ISA) & Formats** – Detailed study of R, I, and S-type instructions, execution methodology, and how they are handled in hardware.  
 - **TL-Verilog** – Learning a modern, timing-abstract HDL that simplifies pipeline implementation and reduces boilerplate code.  
