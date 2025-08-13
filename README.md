@@ -23,7 +23,7 @@ This workshop deepened my understanding of processor architecture, hardware desc
 ---
 Over the five days, I progressed through:
 
-- **Day 1:** Introduction to the RISC-V ISA and the software–hardware execution stack (Application → API → ABI → RTL → Hardware). Learned how C programs map to RISC-V instructions and executed a simple program on a RISC-V environment.
+- **Day 1:** Introduction to the RISC-V ISA and the software–hardware execution stack (Application → API → ABI → ISA → RTL → Hardware). Learned how C programs map to RISC-V instructions and executed a simple program on a RISC-V environment.
 - **Day 2:** In-depth study of the **Application Binary Interface (ABI)**, system calls, and RISC-V instruction formats (R, I, S types). Gained insight into instruction execution methodology and implemented C-with-assembly programs using ABI calls on a Verilog PicoRV32 core with testbench verification.
 - **Day 3:** Learned **TL-Verilog** syntax, Makerchip environment, pipelining principles, retiming, validity, clock gating, and hierarchy concepts. Built a functional calculator with memory recall using TL-Verilog.
 - **Day 4:** Explored the **RISC-V microarchitecture** for a single-cycle CPU in TL-Verilog, implementing PC, instruction fetch, decode, control logic, ALU, instruction memory, register file, and a simple testbench.
